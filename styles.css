@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    background: lightgrey;
+}
+
+.purple {
+    background: rebeccapurple;
+  }
+  .navbar-brand {
+    background: lightseagreen; 
+    padding: 5px;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .navbar {
+      margin: 0px !important;
+      padding: 0px;
+  }
+
+.disp-img {
+    float:left;
+    height:200px;
+    width:200px;
+}
+
+.viz-image {
+    height: 140px;
+    width: 140px;
+}
